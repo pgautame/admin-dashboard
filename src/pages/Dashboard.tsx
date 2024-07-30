@@ -52,7 +52,7 @@ const dashboard = () => {
         <section className="graph-container">
           <div className="revenue-chart">
             <h2>Revenue & Transaction</h2>
-            {/* Graph Here */}
+
             <BarChart
               data_1={[200, 444, 343, 556, 778, 455, 990]}
               data_2={[300, 144, 433, 655, 237, 755, 190]}
@@ -80,7 +80,7 @@ const dashboard = () => {
         <section className="transaction-container">
           <div className="gender-chart">
             <h2>Gender Ratio</h2>
-            {/* Chart */}
+
             <DoughnutChart
               labels={["Female", "Male"]}
               data={[12, 19]}
@@ -91,7 +91,7 @@ const dashboard = () => {
               <BiMaleFemale />
             </p>
           </div>
-          {/* Table */}
+
           <Table data={data.transaction} />
         </section>
       </main>
