@@ -14,3 +14,12 @@ This React Admin Dashboard App is designed to provide a seamless and intuitive e
 - **Customers Page**: Maintain and analyze customer information.
 - **Transactions Page**: Keep track of transaction history and status.
 - **React Table**: Powerful table component with sorting and pagination capabilities.
+
+### Screenshot:
+
+![Dashboard Home](screenshots/admin-dashboard.PNG)  
+_Home page with admin functions, charts, and apps_
+
+### Complete Integration
+
+Project **One-Cart**: https://github.com/pgautame/one-cart
